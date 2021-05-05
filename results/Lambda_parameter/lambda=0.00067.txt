@@ -1,0 +1,70 @@
+Max BER: 0,226087
+Average BER: 0,129789
+Average retransmission number to success: 2,86164
+Correct send packets amounts/s: 39,75
+Average packets delay in ms: 3995,47
+Average packets wait time in ms: 184,955
+=================
+Max BER: 0,176471
+Average BER: 0,120989
+Average retransmission number to success: 2,86836
+Correct send packets amounts/s: 41,4
+Average packets delay in ms: 3543,94
+Average packets wait time in ms: 821,436
+=================
+Max BER: 0,081761
+Average BER: 0,0610549
+Average retransmission number to success: 2,00695
+Correct send packets amounts/s: 46,75
+Average packets delay in ms: 1545,5
+Average packets wait time in ms: 299,364
+=================
+Max BER: 0,154839
+Average BER: 0,109484
+Average retransmission number to success: 2,77301
+Correct send packets amounts/s: 43,725
+Average packets delay in ms: 3113,55
+Average packets wait time in ms: 757,991
+=================
+Max BER: 0,131034
+Average BER: 0,0982753
+Average retransmission number to success: 2,5031
+Correct send packets amounts/s: 44,325
+Average packets delay in ms: 2359,42
+Average packets wait time in ms: 1032,26
+=================
+Max BER: 0,0478723
+Average BER: 0,0368484
+Average retransmission number to success: 1,65911
+Correct send packets amounts/s: 51,85
+Average packets delay in ms: 437,245
+Average packets wait time in ms: 39,1091
+=================
+Max BER: 0,15942
+Average BER: 0,116761
+Average retransmission number to success: 2,95923
+Correct send packets amounts/s: 40,475
+Average packets delay in ms: 4737,17
+Average packets wait time in ms: 718,091
+=================
+Max BER: 0,151724
+Average BER: 0,114964
+Average retransmission number to success: 2,98622
+Correct send packets amounts/s: 39,9
+Average packets delay in ms: 4429,19
+Average packets wait time in ms: 522,218
+=================
+Max BER: 0,14
+Average BER: 0,098815
+Average retransmission number to success: 2,74355
+Correct send packets amounts/s: 44,55
+Average packets delay in ms: 2634,16
+Average packets wait time in ms: 1052,95
+=================
+Max BER: 0,101911
+Average BER: 0,0551251
+Average retransmission number to success: 2,20587
+Correct send packets amounts/s: 47,725
+Average packets delay in ms: 1467,03
+Average packets wait time in ms: 108,318
+=================
