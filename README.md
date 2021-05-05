@@ -2,6 +2,7 @@
 Object oriented computer simulation of discrete event
 
 Treść zadania:
+
 W sieci bezprzewodowej stacje nadawcze konkurują o dostęp do łącza. W losowych odstępach czasu CGPk k-ta stacja nadawcza generuje pakiety gotowe do
 wysłania. Po uzyskaniu dostępu do łącza zgodnie z algorytmem A, k-ty terminal podejmuje próbę transmisji najstarszego pakietu ze swojego bufora. Czas
 transmisji wiadomości z k-tej stacji nadawczej do k-tej stacji odbiorczej wynosi CTPk. Jeśli transmisja pakietu zakończyła się sukcesem, stacja odbiorcza przesyła
@@ -22,5 +23,6 @@ o Sporządź wykres zależności średniej liczby retransmisji pakietów od para
 maksymalnej pakietowej stopy błędów w zależności od wartości L.
 
 Wykorzystany protokół:
+
 Protokół CSMA (ang. Carrier Sense Multiple Access) z wymuszaniem transmizji z prawdopodobieństwem 1 (ang. 1-persistent) - po wygenerowaniu nowego pakietu, stacja nadawcza sprawdza zajętość kanału transmisyjnego. Jeśli kanał jest zajęty, to czeka aż się zwolni sprawdzając zajętość co 0.5 ms. Jeśli kanał jest wolny, to stacja natychmiast podejmuje próbę przesłania swojego pakietu.
 W przypadku retransmisji, stacja nadawcza sprawdza stan kanału po losowym czasie CRP równym R*CTP_k,gdzie R jest losową liczbą z przedziału <0, (2^r - 1), a r jest numerem aktualnej retransmisji (przy każdej retransmisji czas ten jest losowany ponownnie). Jeśli kanał jest zajęty, to czeka aż się zwolni, sprawdzając zajętość co 0.5 ms. Jeśli kanał jest wolny, to stacja natychmiast podejmuje próbę retransmisji swojego pakietu.
